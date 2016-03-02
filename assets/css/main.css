@@ -2322,7 +2322,8 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #FBC02D !important;
+				background-color: #424242 !important;
+				color: #FFEB3B !important;
 				text-shadow: 0px 0px #212121;
 			}
 
